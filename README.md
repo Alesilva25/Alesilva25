@@ -2,9 +2,9 @@
 ---
 **`Análise e Desenvolvimento De Sistemas`** **`São Paulo, SP - Brasil`** **`26 anos`**
 
-Atualmente estou cursando o primeiro semestre de Analise e Desenvolvimento de Sistemas na FIAP, mas possuo conhecimentos básicos em algumas ferramentas de desenvolvimento e busco uma oportunidade de estágio na área de tecnologia
+Atualmente estou cursando o primeiro semestre de Analise e Desenvolvimento de Sistemas na FIAP, mas possuo conhecimento em algumas ferramentas de desenvolvimento e busco uma oportunidade de estágio na área de tecnologia
 
-Também estou cursando o último ano do curso de Inglês Avançado na CNA e tenho conhecimento básico em Japonês. Fique à vontade para conferir meu perfil no "[LinkedIn](https://www.linkedin.com/in/alexandro-silva98/)".
+Também estou cursando o último ano do curso de Inglês Avançado na CNA e tenho conhecimento básico em Japonês
 
 ---
 
