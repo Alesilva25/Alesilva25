@@ -4,7 +4,7 @@
 **`Análise e Desenvolvimento De Sistemas`** **`São Paulo, SP - Brasil`** **`26 anos`**
 
 <div>
-Atualmente, estou no primeiro semestre de Análise e Desenvolvimento de Sistemas na FIAP. Tenho experiência com algumas ferramentas de desenvolvimento e estou em busca de uma oportunidade de estágio na área de tecnologia.  
+Atualmente, estou no primeiro semestre de ADS na FIAP. Tenho conhecimento em algumas ferramentas de desenvolvimento e estou em busca de uma oportunidade de estágio na área de tecnologia.  
 
 Além disso, estou no último ano do curso de Inglês Avançado na CNA e possuo conhecimento básico em Japonês.
 </div>
