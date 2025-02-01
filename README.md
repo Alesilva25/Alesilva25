@@ -9,6 +9,8 @@ Atualmente, estou no primeiro semestre de Análise e Desenvolvimento de Sistemas
 Além disso, estou no último ano do curso de Inglês Avançado na CNA e possuo conhecimento básico em Japonês.
 </div>
 
+##
+
 ### 🤖 Ferramentas e Linguagens
 
 <div style="display: inline_block"><br>
